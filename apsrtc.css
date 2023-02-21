@@ -1,0 +1,67 @@
+body{
+  margin: none;
+}
+header{
+  font-family: "Calibri Light";
+  background:linear-gradient(45deg,teal,lightcyan);
+  font-size: 30px;
+  padding: 10px;
+
+}
+nav{
+  background:linear-gradient(45deg,red,lightsalmon);
+  padding: 20px;
+}
+nav a{
+  color: #222222;
+  padding: 10px 25px;
+  display: inline-block;
+  text-decoration: none;
+  font-size: 20px;
+}
+nav a:hover{
+  color: white;
+}
+div{
+  background-color:linen;
+  padding: 10px;
+  height: 260px;
+}
+input{
+  border: whitesmoke;
+  font-size: 20px;
+  margin: 5px;
+  border-radius: 5px;
+  border-color: black;
+}
+label{
+  font-family: "Calibri Light";
+  font-size: 20px;
+  padding: 10px;
+}
+*{
+  margin: 0;
+
+}
+body{
+  font-family: "Calibri Light";
+  text-align: center;
+}
+h1{
+  color: greenyellow;
+  font-size: 80px;
+}
+section{
+  padding: 100px;
+}
+p{
+  padding: 10px;
+  font-size: 20px;
+  font-family: "Calibri Light";
+}
+footer{
+  background-color: lightgray;
+  font-family: "Calibri Light";
+  font-size: 30px;
+}
+
